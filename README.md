@@ -1,7 +1,7 @@
 # Lab_On_Smart_Cities
 
 <p align="center">
-  <img src=" " width="60%">
+  <img src="https://github.com/emanuelaelli//blob/main/images/poor.png" width="60%">
 </p>
   <h6 align="center">a Lab On Smart City Project</h6>
 <p align="center">
@@ -22,11 +22,11 @@ This is a university project for the Data Science Lab On Smart City course. The 
 
 <a name="data"></a>
 ## &#9741; &nbsp; Data
-The datasets used derive from information made available by the English police and from additional open source data on the census of the city of London. You can find the datasets used in the <a href="https://github.com/emanuelaelli/Text_Mining/blob/main/Dataset/">Dataset</a> folder.<br>
+The datasets used derive from information made available by the English police and from additional open source data on the census of the city of London. You can find the datasets used in the <a href="https://github.com/emanuelaelli/Lab_On_Smart_Cities/blob/main/Dataset/">Dataset</a> folder.<br>
 
 <a name="presentation"></a>
 ## &#9741; &nbsp; Presentation 
-You can find our presentation in the <a href="https://github.com/emanuelaelli/Lab_On_Smart_city/blob/main/Elli, Madon - Progetto Smart City.pdf">Report</a> and <a href="https://github.com/emanuelaelli/Lab_On_Smart_city/blob/main/Presentation.pdf">Slides</a> folder.<br>
+You can find our presentation in the <a href="https://github.com/emanuelaelli/Lab_On_Smart_Cities/blob/main/Elli, Madon - Progetto Smart City.pdf">Report</a> and <a href="https://github.com/emanuelaelli/Lab_On_Smart_Cities/blob/main/Presentation.pdf">Slides</a> folder.<br>
 
 
 <a name="aboutus"></a>
