@@ -1,7 +1,7 @@
 # Lab_On_Smart_Cities
 
 <p align="center">
-  <img src="https://github.com/emanuelaelli//blob/main/images/poor.png" width="60%">
+  <img src="https://github.com/emanuelaelli/Lab_On_Smart_Cities/blob/main/images/poor.png" width="60%">
 </p>
   <h6 align="center">a Lab On Smart City Project</h6>
 <p align="center">
