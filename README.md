@@ -3,7 +3,7 @@
 <p align="center">
   <img src=" " width="60%">
 </p>
-  <h6 align="center">a Text Mining Project</h6>
+  <h6 align="center">a Lab On Smart City Project</h6>
 <p align="center">
   <a href="#tools">Tools &nbsp;</a> |
   <a href="#overview">Overview &nbsp;</a> |
