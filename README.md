@@ -50,6 +50,7 @@ You can find our presentation in the <a href="https://github.com/emanuelaelli/La
 <br>
 
 <p align = "center">
+<a href = "https://www.linkedin.com/in/federica-madon/"><img src="https://github.com/emanuelaelli/emanuelaelli/blob/main/Linkedin_logo.png" width = "2.3%"></a>
   <a href = "https://github.com/f-madon"><img src="https://github.com/emanuelaelli/emanuelaelli/blob/main/GitHub_logo.png" width = "2.5%"></a>
 </p>
 
